@@ -1,4 +1,4 @@
- # LMS_Learning Management System - Backend
+ # LMS_Learning Management System 
 
 A comprehensive Node.js/Express backend for the learning management system with MongoDB, Cloudinary integration, and Clerk authentication.
 
